@@ -17,7 +17,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_guamp
 PRODUCT_DEVICE := guamp
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := moto g(9)
+PRODUCT_MODEL := moto g(9) play
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
