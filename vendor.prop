@@ -21,3 +21,6 @@ ro.hardware.keystore_desede=true
 
 # Radio
 ro.vendor.radio.imei.sv=29
+
+# Multi-gen LRU
+persist.device_config.mglru_native.lru_gen_config=all
